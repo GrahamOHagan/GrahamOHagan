@@ -15,7 +15,7 @@ I like: Cloud, Infrastructure as code, pipelines, automation, and generally codi
 ---
 
 #### Badges
-<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/>
+<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/><img src="hashicorp-certified-terraform-associate.png" alt="Hashicorp Certified Terraform Associate" width="200"/>
 
 ---
 
