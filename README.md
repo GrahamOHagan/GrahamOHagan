@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am working as a Cloud Engineer and am into: IAC, Pipelines, Automation, and Coding in general!
+I am currently working as a Cloud Engineer and am into: IAC, Automation, Pipelines and Coding in general!
 
 ---
 
 #### Skills
 - Python, Golang, & Bash
 - Terraform
+- Git
 - AWS
 - Serverless
 - Containers
@@ -18,6 +19,12 @@ I am working as a Cloud Engineer and am into: IAC, Pipelines, Automation, and Co
 <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/><img src="hashicorp-certified-terraform-associate.png" alt="Hashicorp Certified Terraform Associate" width="200"/>
 
 ---
+
+![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrahamOHagan&show_icons=true&theme=dark)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamOHagan&layout=compact&show_icons=true&theme=dark)](https://github.com/GrahamOHagan/github-readme-stats)
 
 <!--
 **GrahamOHagan/GrahamOHagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
