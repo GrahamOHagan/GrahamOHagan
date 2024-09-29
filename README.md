@@ -16,7 +16,7 @@ I am currently working as a Cloud Engineer and am into: IAC, Automation, Pipelin
 ---
 
 #### Certification/Badges
-<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/><img src="aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="200"/><img src="hashicorp-certified-terraform-associate.png" alt="Hashicorp Certified Terraform Associate" width="200"/>
+<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/><img src="aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="200"/><img src="hashicorp-certified-terraform-associate-003.png" alt="Hashicorp Certified Terraform Associate 003" width="200"/>
 
 ---
 
